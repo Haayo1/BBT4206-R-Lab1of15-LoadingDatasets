@@ -1,7 +1,7 @@
 ---
-title: "Business Intelligence Project"
-author: "<Specify your name here>"
-date: "<Specify the date when you submitted the lab>"
+title: "Improving Food Security Through Climate Smart Agriculture"
+author: "<Immaculate Juma Haayo>"
+date: "<Thursday 7th September 2023>"
 output:
   github_document: 
     toc: yes
@@ -13,14 +13,15 @@ editor_options:
   chunk_output_type: console
 ---
 
+
 # Student Details
 
-|                                              |     |
-|----------------------------------------------|-----|
-| **Student ID Number**                        | Immaculate Haayo |
+                                                 
+
+| **Student ID Number**                        | Immaculate Juma Haayo |
 | **Student Name**                             | 134111 |
 | **BBIT 4.2 Group**                           | B |
-| **BI Project Group Name/ID (if applicable)** | ... |
+| **BI Project Group Name/ID (if applicable)** | GroundBreakers|
 
 # Setup Chunk
 
@@ -42,12 +43,11 @@ knitr::opts_chunk$set(
 
 ### Source:
 
-The dataset that was used can be downloaded here: *\<https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download\>*
+The dataset that was used can be downloaded here: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download
 
 ### Reference:
 
-*\<Cite the dataset here using APA\>\
-Refer to the APA 7th edition manual for rules on how to cite datasets: <https://apastyle.apa.org/style-grammar-guidelines/references/examples/data-set-references>*
+Ingle,A.(2020). Crop Recommendation Dataset https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download
 
 ```{r Dataset Loader}
 library(readr)

@@ -69,7 +69,7 @@
 # you train and test your algorithm.
 
 # Some of these attributes might not be use used in your research.  They were
-# originally added to our database to perform calculations.  (Brown, Pelosi &
+# originally added to our database to perform calculations.  (Brown, Pelts &
 # Dirska, 2013) used percent_change_price, percent_change_volume_over_last_wk,
 # days_to_next_dividend, and percent_return_next_dividend.  We left the other
 # attributes in the dataset	in case you wanted to use any of them. Of course

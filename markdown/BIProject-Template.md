@@ -1,7 +1,9 @@
-Business Intelligence Project
+Improving Food Security Through Climate Smart Agriculture
 ================
-<Specify your name here>
-<Specify the date when you submitted the lab>
+Immaculate Juma Haayo 
+
+
+Thursday 7th September 2023
 
 - [Student Details](#student-details)
 - [Setup Chunk](#setup-chunk)
@@ -13,12 +15,10 @@ Business Intelligence Project
 
 # Student Details
 
-|                                              |                  |
-|----------------------------------------------|------------------|
-| **Student ID Number**                        | Immaculate Haayo |
-| **Student Name**                             | 134111           |
-| **BBIT 4.2 Group**                           | B                |
-| **BI Project Group Name/ID (if applicable)** | …                |
+**Student ID Number** \| Immaculate Juma Haayo \|  
+**Student Name** \| 134111 \|  
+**BBIT 4.2 Group** \| B \|  
+**BI Project Group Name/ID (if applicable)** \| GroundBreakers\|
 
 # Setup Chunk
 
@@ -36,15 +36,13 @@ here <https://yihui.org/knitr/options/>.
 
 ### Source:
 
-The dataset that was used can be downloaded here: *\<<a
-href="https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download\"
-class="uri">https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download\</a>\>*
+The dataset that was used can be downloaded here:
+<https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download>
 
 ### Reference:
 
-*\<Cite the dataset here using APA\>  
-Refer to the APA 7th edition manual for rules on how to cite datasets:
-<https://apastyle.apa.org/style-grammar-guidelines/references/examples/data-set-references>*
+Ingle,A.(2020). Crop Recommendation Dataset
+<https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download>
 
 ``` r
 library(readr)
