@@ -13,12 +13,12 @@ Business Intelligence Project
 
 # Student Details
 
-|                                              |     |
-|----------------------------------------------|-----|
-| **Student ID Number**                        | …   |
-| **Student Name**                             | …   |
-| **BBIT 4.2 Group**                           | …   |
-| **BI Project Group Name/ID (if applicable)** | …   |
+|                                              |                  |
+|----------------------------------------------|------------------|
+| **Student ID Number**                        | Immaculate Haayo |
+| **Student Name**                             | 134111           |
+| **BBIT 4.2 Group**                           | B                |
+| **BI Project Group Name/ID (if applicable)** | …                |
 
 # Setup Chunk
 
