@@ -36,7 +36,9 @@ here <https://yihui.org/knitr/options/>.
 
 ### Source:
 
-The dataset that was used can be downloaded here: *\<provide a link\>*
+The dataset that was used can be downloaded here: *\<<a
+href="https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download\"
+class="uri">https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download\</a>\>*
 
 ### Reference:
 
@@ -46,6 +48,20 @@ Refer to the APA 7th edition manual for rules on how to cite datasets:
 
 ``` r
 library(readr)
+Crop_recommendation <- read_csv("../data/Crop_recommendation.csv")
+```
+
+    ## Rows: 2200 Columns: 8
+    ## ── Column specification ────────────────────────────────────────────────────────
+    ## Delimiter: ","
+    ## chr (1): label
+    ## dbl (7): N, P, K, temperature, humidity, ph, rainfall
+    ## 
+    ## ℹ Use `spec()` to retrieve the full column specification for this data.
+    ## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+
+``` r
+View(Crop_recommendation)
 
 # Provide the executable R code inside the various code chunks as guided by the lab work.
 ```

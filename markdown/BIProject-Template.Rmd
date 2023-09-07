@@ -42,7 +42,7 @@ knitr::opts_chunk$set(
 
 ### Source:
 
-The dataset that was used can be downloaded here: *\<provide a link\>*
+The dataset that was used can be downloaded here: *\<https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset?resource=download\>*
 
 ### Reference:
 
@@ -51,6 +51,8 @@ Refer to the APA 7th edition manual for rules on how to cite datasets: <https://
 
 ```{r Dataset Loader}
 library(readr)
+Crop_recommendation <- read_csv("../data/Crop_recommendation.csv")
+View(Crop_recommendation)
 
 # Provide the executable R code inside the various code chunks as guided by the lab work.
 ```
