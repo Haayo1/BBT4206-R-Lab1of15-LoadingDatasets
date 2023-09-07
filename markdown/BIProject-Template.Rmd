@@ -1,7 +1,7 @@
 ---
 title: "Improving Food Security Through Climate Smart Agriculture"
 author: "<Immaculate Juma Haayo>"
-date: "<Thursday 7th September 2023>"
+date: "<Thursday 7/9 2023>"
 output:
   github_document: 
     toc: yes
