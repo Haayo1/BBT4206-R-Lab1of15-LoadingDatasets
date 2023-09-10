@@ -371,7 +371,7 @@ churn_dateset <- read_csv(
 # **Required Lab Work Submission** ----
 ## Part A ----
 # Specify the code you have used to load your own dataset for the BI Project
-
+#here
 library(readr)
 Crop_recommendation <- read_csv("data/Crop_recommendation.csv")
 View(Crop_recommendation)
