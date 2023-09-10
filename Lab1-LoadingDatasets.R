@@ -372,6 +372,9 @@ churn_dateset <- read_csv(
 ## Part A ----
 # Specify the code you have used to load your own dataset for the BI Project
 # here:
+library(readr)
+Crop_recommendation <- read_csv("data/Crop_recommendation.csv")
+View(Crop_recommendation)
 
 ## Part B ----
 # Upload *the link* to your "Lab1-LoadingDatasets.R" hosted on Github (do not
@@ -387,4 +390,5 @@ churn_dateset <- read_csv(
 # Upload *the link* to "BIProject.md" (not .Rmd) markdown file hosted on Github
 # (do not upload the .Rmd or .md markdown files) through the same submission
 # link provided on eLearning.
+
 #Immaculate Haayo

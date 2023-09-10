@@ -1,9 +1,7 @@
 Improving Food Security Through Climate Smart Agriculture
 ================
-Immaculate Juma Haayo 
-
-
-Thursday 7th September 2023
+<Immaculate Juma Haayo>
+\<Thursday 7/9 2023\>
 
 - [Student Details](#student-details)
 - [Setup Chunk](#setup-chunk)
